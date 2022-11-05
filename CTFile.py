@@ -3,7 +3,6 @@ import json
 import re
 import requests
 
-
 def getFolderId(retFile):
     """
     folderId 读取
